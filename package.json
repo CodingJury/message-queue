@@ -1,0 +1,14 @@
+{
+  "name": "message-queue",
+  "version": "1.0.0",
+  "description": "bare bone project for knowing how message queue works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhananjay Patel",
+  "license": "ISC",
+  "dependencies": {
+    "bullmq": "^4.14.0"
+  }
+}
